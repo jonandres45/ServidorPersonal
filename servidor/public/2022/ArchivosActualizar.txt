@@ -1,0 +1,30 @@
+Archivos actualizar
+FechaCambio-RutaDestino-Archivo|DescripciondelCambio
+10 enero 2022|archivos\|Indices.txt|Indices.ini|Indice definitivo para el mes de diciembre 117.308|
+10 enero 2022|archivos\|udis.txt|udis.txt|UDIS actualizados|
+12 enero 2022|archivos\|Art_1032.INI|Art_1032.INI|Tarifa aplicable a pagos provisionales 3.15.4|
+13 enero 2022||Derechos.exe|Derechos.exe|Actualización provicional para derechos CDMX|
+13 enero 2022||comprobar.txt|comprobar.txt|Programa actualizado al dia|
+25 enero 2022|archivos\|udis.txt|udis.txt|UDIS actualizados|
+02 febrero 2022|archivos\|SALARIO.txt|SALARIO.INI|UMA actualizado 96.22|
+03 febrero 2022||Isabi2.exe|Isabi2.exe|ISABI actualizados para edomex|
+04 enero 2022|archivos\|Indiceshistoricos.ini|Indiceshistoricos.ini|Correcciones capri|
+04 febrero 2021||C@PRI2022.exe|C@PRI2022.exe|Mejoras para el sistema capri|
+09 febrero 2022||Derechos2.exe|Derechos2.exe|Derechos actualizados para edomex|
+10 febrero 2022|archivos\|Indices.txt|Indices.ini|Indice definitivo para el mes de enero 118.002|
+10 febrero 2022|archivos\|udis.txt|udis.txt|UDIS actualizados|
+25 febrero 2022|archivos\|udis.txt|udis.txt|UDIS actualizados|
+10 marzo 2022|archivos\|Indices.txt|Indices.ini|Indice definitivo para el mes de febrero 118.981|
+10 marzo 2022|archivos\|udis.txt|udis.txt|UDIS actualizados|
+25 marzo 2022|archivos\|udis.txt|udis.txt|UDIS actualizados|
+08 abril 2022|archivos\|Indices.txt|Indices.ini|Indice definitivo para el mes de marzo 120.1590|
+08 abril 2022|archivos\|udis.txt|udis.txt|UDIS actualizados|
+25 abril 2022|archivos\|udis.txt|udis.txt|UDIS actualizados|
+10 mayo 2022|archivos\|Indices.txt|Indices.ini|Indice definitivo para el mes de abril 120.8090|
+10 mayo 2022|archivos\|udis.txt|udis.txt|UDIS actualizados|
+25 mayo 2022|archivos\|udis.txt|udis.txt|UDIS actualizados|
+09 juni 2022|archivos\|TablaAjuste2.INI|TablaAjuste2.INI|Tabla para la actualización de las deducciones Regla 3.15.1|
+09 junio 2022||C@PRI2022.exe|C@PRI2022.exe|Mejoras para el sistema capri|
+10 junio 2022|archivos\|Indices.txt|Indices.ini|Indice definitivo para el mes de mayo 121.022|
+10 junio 2022|archivos\|udis.txt|udis.txt|UDIS actualizados|
+10 junio 2022||comprobar.txt|comprobar.txt|Programa actualizado al dia|

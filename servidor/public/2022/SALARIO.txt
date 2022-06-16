@@ -1,0 +1,4 @@
+;***** SALARIO.INI para la aplicación de CAPRIA ******
+
+[SALARIO]
+ZONA=96.22
